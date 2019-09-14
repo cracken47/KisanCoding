@@ -1,0 +1,5 @@
+
+ssquid:S00116'"VRename this field "ComposeSend" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í‹Îìùÿÿÿÿ
+bsquid:S1301s"KReplace this "switch" statement by "if" statements to increase readability.(ºÖ
+Msquid:S1153M"1Directly append the argument of String.valueOf().(äÛıØøÿÿÿÿ
+P"squid:SwitchLastCaseIsDefaultChecks""Add a default case to this switch.(ºÖ

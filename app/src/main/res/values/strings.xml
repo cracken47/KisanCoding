@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kisan Contacts</string>
+    <string name="error_msg">Something went wrong, Please try again</string>
+    <string name="title_contact_details">Contact Details</string>
+    <string name="button_message">Send Message</string>
+    <string name="permission_call">Permissions needed to make call</string>
+    <string name="msg_compose_otp">Hi, your OTP is: </string>
+    <string name="error_send_sms">Something went wrong while sending OTP</string>
+    <string name="success_send_sms">OTP sent to your mobile</string>
+    <string name="no_messages_found">No messages found for now</string>
+</resources>

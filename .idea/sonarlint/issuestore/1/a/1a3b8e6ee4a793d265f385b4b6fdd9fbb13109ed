@@ -1,0 +1,5 @@
+
+psquid:S3252ä"XUse static access with "android.support.v4.app.ActivityCompat" for "requestPermissions".(âçäó
+bsquid:S1301Z"KReplace this "switch" statement by "if" statements to increase readability.(é∫÷ç
+P"squid:SwitchLastCaseIsDefaultCheckZ""Add a default case to this switch.(é∫÷ç
+jsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(ûÆÁÊ˙ˇˇˇˇ

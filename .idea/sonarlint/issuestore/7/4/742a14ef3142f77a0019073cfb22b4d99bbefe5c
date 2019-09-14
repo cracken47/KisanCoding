@@ -1,0 +1,4 @@
+
+fsquid:S26744"JCheck the return value of the "read" call to see how many bytes were read.(ë¥áïøÿÿÿÿ
+?squid:S1148?"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+ksquid:S00116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û÷–•øÿÿÿÿ
